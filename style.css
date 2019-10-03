@@ -3,3 +3,8 @@ h1 {
   background-color: cyan;
   font-size: 45px;
 }
+
+p {
+  border: solid 3px orange;
+  border-radius: 15px;
+}
